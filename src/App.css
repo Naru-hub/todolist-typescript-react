@@ -28,3 +28,8 @@
 .todoList li input {
   padding: 7px;
 }
+
+.deleteButton {
+  color: white;
+  background-color: #333;
+}
